@@ -5,8 +5,7 @@
   <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+<h1><%= "Web環境システム開発Ⅰ" %></h1>
+<p>これは、この科目で毎週少しずつ育てていくプロジェクトの出発点です。</p>
 </body>
-</html>
+</html>/:
